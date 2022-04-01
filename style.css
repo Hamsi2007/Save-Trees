@@ -1,0 +1,29 @@
+body
+{
+text-align: center;
+}
+h1
+{
+font-size: 100px;
+color: green;
+}
+h2
+{
+    color: orange;
+    font-size: 80px;
+    font-weight: bold;
+}
+img
+{
+    height: 300px;
+    width: 400px;
+    border:3px green ridge;
+    border-radius: 20px;
+    padding: 5px;
+}
+p
+{
+    color:purple;
+    font-size: 70px;
+    font-weight: bold;
+}
